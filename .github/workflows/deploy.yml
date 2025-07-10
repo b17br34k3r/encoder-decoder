@@ -8,7 +8,7 @@ jobs:
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ftp.encoder-decoder.42web.io
+          server: ftpupload.net
           username: if0_39436719
           password: cIgAe9PBrQG
           local-dir: ./
