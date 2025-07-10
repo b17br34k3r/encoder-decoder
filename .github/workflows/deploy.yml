@@ -11,4 +11,4 @@ jobs:
           server: ftp.encoder-decoder.42web.io
           username: if0_39436719
           password: cIgAe9PBrQG
-          local-dir: ./index.html
+          local-dir: ./
