@@ -1,0 +1,14 @@
+name: Deploy to Infinity Free
+on: [push]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Deploy to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ftp.encoder-decoder.42web.io
+          username: if0_39436719
+          password: cIgAe9PBrQG
+          local-dir: ./index.html
