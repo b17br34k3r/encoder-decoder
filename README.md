@@ -7,11 +7,12 @@
 
 A powerful and user-friendly web application for encoding, decoding, hashing, and analyzing text in multiple formats. This tool is perfect for developers, security professionals, and anyone who works with different text encoding schemes.
 
-![Screenshot](https://via.placeholder.com/800x500.png?text=Universal+Text+Encoder+Decoder+Screenshot)
+![Screenshot](image.png)
 
 ## ✨ Features
 
 - **Multiple Encoding/Decoding Formats**:
+
   - Base64, Base32, Base16, Base85
   - URL, HTML, XML Encoding
   - ROT13, ROT47, Caesar, Atbash ciphers
@@ -20,11 +21,13 @@ A powerful and user-friendly web application for encoding, decoding, hashing, an
   - And many more!
 
 - **Hashing Functions**:
+
   - MD5, SHA-1, SHA-256, SHA-512
   - SHA-3, RIPEMD-160
   - HMAC generation
 
 - **Hash Analysis**:
+
   - Identify hash types
   - Hash length analysis
   - Character set analysis
@@ -37,10 +40,13 @@ A powerful and user-friendly web application for encoding, decoding, hashing, an
 ## 🚀 Quick Start
 
 ### Option 1: Use Online
+
 Simply open the [live demo](https://abdullahabbasi11.github.io/encoder-decoder/) in your browser and start using the tool immediately.
 
 ### Option 2: Run Locally
+
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/AbdullahAbbasi11/encoder-decoder.git
    cd encoder-decoder
@@ -58,24 +64,28 @@ Simply open the [live demo](https://abdullahabbasi11.github.io/encoder-decoder/)
 ## 🛠️ Usage
 
 ### Encoding Text
+
 1. Go to the "Encode" tab
 2. Enter your text in the input box
 3. Click "Encode All Formats"
 4. View the encoded results in different formats
 
 ### Decoding Text
+
 1. Go to the "Decode" tab
 2. Select the format (or choose auto-detect)
 3. Enter the encoded text
 4. Click "Decode" to view the original text
 
 ### Hashing Text
+
 1. Go to the "Text to Hash" tab
 2. Enter your text
 3. Select the hash algorithm
 4. View the generated hash
 
 ### Hash Analysis
+
 1. Go to the "Hash Analysis" tab
 2. Enter the hash value
 3. View the analysis results including possible hash types
@@ -83,6 +93,7 @@ Simply open the [live demo](https://abdullahabbasi11.github.io/encoder-decoder/)
 ## 📝 Examples
 
 ### Encoding Example
+
 ```
 Input: Hello, World!
 
@@ -93,6 +104,7 @@ Morse Code: .... . .-.. .-.. --- --..-- / .-- --- .-. .-.. -.. -.-.--
 ```
 
 ### Hash Analysis Example
+
 ```
 Input: 5d41402abc4b2a76b9719d911017c592
 
@@ -105,6 +117,7 @@ Possible Hash Types:
 ## 🛡️ Security Note
 
 While this tool is great for learning and basic encoding/decoding tasks, please note:
+
 - For sensitive data, consider using dedicated security tools
 - Hashing is one-way only - hashes cannot be reversed to original text
 - Always use strong, unique passwords and proper encryption for sensitive information
