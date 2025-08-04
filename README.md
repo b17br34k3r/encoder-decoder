@@ -135,8 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Abdullah Abbasi**
 
 - GitHub: [@AbdullahAbbasi11](https://github.com/AbdullahAbbasi11)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Twitter: [@YourTwitter](https://twitter.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-ashir-5108b1377)
 
 ## 🙏 Acknowledgments
 
