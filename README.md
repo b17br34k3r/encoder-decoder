@@ -37,7 +37,7 @@ A powerful and user-friendly web application for encoding, decoding, hashing, an
 ## 🚀 Quick Start
 
 ### Option 1: Use Online
-Simply open the [live demo](https://abdullahabbasi11.github.io/encoder-decoder/) in your browser and start using the tool immediately.
+Simply open the [live demo](https://encoder-decoder.42web.io/) in your browser and start using the tool immediately.
 
 ### Option 2: Run Locally
 1. **Clone the repository**:
