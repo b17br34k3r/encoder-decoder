@@ -48,12 +48,7 @@ Simply open the [live demo](https://abdullahabbasi11.github.io/encoder-decoder/)
 
 2. **Open in your browser**:
    - Simply open the `index.html` file in your preferred web browser
-   - Or use a local server:
-     ```bash
-     # Using Python's built-in server
-     python -m http.server 8000
-     # Then open http://localhost:8000 in your browser
-     ```
+  
 
 ## 🛠️ Usage
 
@@ -133,7 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🙏 Acknowledgments
 
-- [CryptoJS](https://github.com/brix/crypto-js) - For cryptographic functions
+
 - [Font Awesome](https://fontawesome.com/) - For beautiful icons
 - [Google Fonts](https://fonts.google.com/) - For typography
 
@@ -141,4 +136,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ⭐ Star this repository if you found it useful!
 
-🔗 [Live Demo](https://abdullahabbasi11.github.io/encoder-decoder/) | [Report Bug](https://github.com/AbdullahAbbasi11/encoder-decoder/issues) | [Request Feature](https://github.com/AbdullahAbbasi11/encoder-decoder/issues)
+🔗 [Live Demo](https://encoder-decoder.42web.io/) | [Report Bug](https://github.com/AbdullahAbbasi11/encoder-decoder/issues) | [Request Feature](https://github.com/AbdullahAbbasi11/encoder-decoder/issues)
