@@ -41,14 +41,14 @@ A powerful and user-friendly web application for encoding, decoding, hashing, an
 
 ### Option 1: Use Online
 
-Simply open the [live demo](https://abdullahabbasi11.github.io/encoder-decoder/) in your browser and start using the tool immediately.
+Simply open the [live demo](https://b17br34k3r.github.io/encoder-decoder/) in your browser and start using the tool immediately.
 
 ### Option 2: Run Locally
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/AbdullahAbbasi11/encoder-decoder.git
+   git clone https://github.com/b17br34k3r/encoder-decoder.git
    cd encoder-decoder
    ```
 
@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Abdullah Abbasi**
 
-- GitHub: [@AbdullahAbbasi11](https://github.com/AbdullahAbbasi11)
+- GitHub: [@AbdullahAbbasi11](https://github.com/b17br34k3r)
 - LinkedIn: [Abdullah Abbasi](https://www.linkedin.com/in/muhammad-abdullah-ashir-5108b1377)
 
 ## 🙏 Acknowledgments
